@@ -1,1 +1,1 @@
-# gateway-repository
+# gateway-service
